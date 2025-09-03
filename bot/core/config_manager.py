@@ -7,7 +7,7 @@ class Config:
     AUTHORIZED_CHATS = ""
     BASE_URL = ""
     BASE_URL_PORT = 80
-    BOT_TOKEN = ""
+    BOT_TOKEN = "8417075789:AAG04L_WxgETFEgz1vgOKHJP_XA_ixtSE5k"
     HELPER_TOKENS = ""
     BOT_MAX_TASKS = 0
     BOT_PM = False
@@ -15,7 +15,7 @@ class Config:
     CUSTOM_BOT_HEADER = "Downloader Zone"
     CUSTOM_BOT_HEADER_LINK = "https://t.me/DownloaderZoneGateway"
     DEFAULT_LANG = "en"
-    DATABASE_URL = ""
+    DATABASE_URL = "mongodb+srv://kalapradeesh1986:MCmtR1EGwOw8G2tb@cluster0.eyxcn7k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     DEFAULT_UPLOAD = "rc"
     DELETE_LINKS = False
     DISABLE_TORRENTS = False
@@ -70,7 +70,7 @@ class Config:
     HYBRID_LEECH = True
     HYPER_THREADS = 0
     NAME_SWAP = ""
-    OWNER_ID = 0
+    OWNER_ID = 7894409422
     QUEUE_ALL = 0
     QUEUE_DOWNLOAD = 0
     QUEUE_UPLOAD = 0
@@ -93,8 +93,8 @@ class Config:
     STOP_DUPLICATE = False
     STREAMWISH_API = ""
     SUDO_USERS = ""
-    TELEGRAM_API = 0
-    TELEGRAM_HASH = ""
+    TELEGRAM_API = 21173380
+    TELEGRAM_HASH = "13bafe35ff8a6c3e74712c1a12e47250"
     TG_PROXY = None
     THUMBNAIL_LAYOUT = ""
     VERIFY_TIMEOUT = 0
@@ -105,7 +105,7 @@ class Config:
     USER_TIME_INTERVAL = 0
     UPLOAD_PATHS = {}
     UPSTREAM_REPO = ""
-    UPSTREAM_BRANCH = "master"
+    UPSTREAM_BRANCH = "main"
     UPDATE_PKGS = True
     USER_SESSION_STRING = ""
     USER_TRANSMISSION = True
