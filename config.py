@@ -122,7 +122,7 @@ JD_PASS = ""
 
 # Update
 UPSTREAM_REPO = "https://github.com/MokeyDLuf88/ABML-X.git"
-UPSTREAM_BRANCH = "master"
+UPSTREAM_BRANCH = "main"
 UPDATE_PKGS = True
 
 # Leech
