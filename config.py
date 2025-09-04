@@ -10,7 +10,7 @@ DEFAULT_LANG = "en"
 TG_PROXY = (
     {}
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
-USER_SESSION_STRING = ""
+USER_SESSION_STRING = "BQGyB4UAfLiBgd36-8qDP5AFYrJzFRCg54tpoQLKfLQBrx6yiwdDAlPE2_1NJEdOFmtsxal4CMcrOOVVMWye-mTJ6woqvZcHdfQAyo4AyVr_Ro-e6Nd9vsBSAUtOCbLHKVOjJ35UUum0bRH5NIvnXlkerwyns0wFsTuMrKmEE4PQ8m2bb3WzMfpOncph59jXm5FGFJxUCIqLrO5K_NXhYzXEHF69aR5rpkxkFXn-jEJOpMVJbRtNoYKGh940cPJ1NvFBHjMD3MpuYU6kk92gmHM5zsxAAcOjAMtDeSgQAbBfXinsgjFVtSGoHoEa_PrTDyrWve6ie3PktsMFreeeYH5PRV8v4wAAAAHZ6WgDAA"
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
